@@ -1,12 +1,11 @@
-import './App.css';
+import './App.css'
 
 function App() {
   return (
-    <div>
-      Hello
-
-    </div>
-  );
+    <form>
+      <input id="dinosaur_name" name="dinosaur_name" />
+    </form>
+  )
 }
 
-export default App;
+export default App
