@@ -1,7 +1,8 @@
-import './App.css'
+import 'src/App.css'
+import TestComponent from 'components/TestComponent/TestComponent'
 
 function App() {
-    return <div>Hello</div>
+    return <TestComponent />
 }
 
 export default App
